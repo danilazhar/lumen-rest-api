@@ -19,7 +19,7 @@ In the project directory, you can run:
 
 [POST] `api/packet` to create a packet with parameters. \
 Parameters are as below : \
-`sender_email`, `amount`, `quantity`, `random`\
+`sender_email`, `amount`, `quantity`, `random`
 
 [POST] `api/packet/getTransaction` to get the packet transaction to receiver.
 Parameter : `packet_id`
