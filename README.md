@@ -1,5 +1,5 @@
 # Getting Started with lumen-rest-api
-This front-end project was created using Lumen.\
+This rest-api project was created using Lumen. This is the rest-api for sending a red packet to the multiple receiver with equal amount or random amount.\
 Lumen is micro-framework by [Laravel](https://lumen.laravel.com/)
 
 Please run `composer install` after project was cloned.\
