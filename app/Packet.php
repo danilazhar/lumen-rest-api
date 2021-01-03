@@ -23,7 +23,6 @@ class Packet extends Model
         'created_by'
     ];
 
-
     public static function create_packet($request)
     {
 
